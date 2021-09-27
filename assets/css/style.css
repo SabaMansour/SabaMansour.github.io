@@ -241,8 +241,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url(/assets/img/ssapple-touch-icon.png) top center;
+  height: 80vh;
+  background-color: rgb(60,100,140);
   background-size: cover;
 }
 
